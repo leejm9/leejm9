@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 🐱‍🏍tech stack🐱‍🏍
 🥇used as the main
 
-![Java Badge](https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white)
+![Java Badge](https://img.shields.io/badge/JAVA-%23007396?style=for-the-badge&logo=JAVA&logoColor=white)
 
 🥇used as least once
 
