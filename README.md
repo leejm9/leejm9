@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung981102)](https://solved.ac/jung981102/)
